@@ -16,7 +16,7 @@ public class SchoolDaoImpl implements SchoolDao {
         this.jdbcTemplate = jdbcTemplate;
     }
 
-    /*
+    /* FINAL
     * Add each SQL statement to the methods below.
     * The SQL statement must be completely inside the quotation marks provided
     * in the existing Java statement:
